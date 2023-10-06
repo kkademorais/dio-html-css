@@ -1,0 +1,8 @@
+#Title, .Subtitle, .Posts{
+    color:blueviolet
+}
+
+.Posts{
+    font-size: 16px;
+    font-style: italic;
+}
